@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="inspecting_the_lift_pump">
+    <title>Inspecting the lift pump</title>
+    <conbody>
+        <p>
+            <ol id="ol_nw3_3td_n2c">
+                <li>Remove the clamp (1) to remove the tank (2) from the lift pump manifold
+                        (3).<note id="note_cf2_ltd_n2c" type="tip">
+                        <p>Technician Tips: The lift pump (6) is not a serviceable part. Replace the
+                            lift pump if repair is necessary.</p>
+                    </note></li>
+                <li>Remove and inspect the following components. Make sure that the components are
+                    clean, not damaged, and correctly lubricated with hydraulic oil before
+                        replacement.<ul id="ul_p5y_mtd_n2c">
+                        <li>Sealing plug ball (7)</li>
+                        <li>Relief valve (8)</li>
+                        <li>Check valve (9)</li>
+                        <li>Seals (10)</li>
+                        <li>Plugs (11)</li>
+                        <li>Solenoid coil (12)</li>
+                        <li>Solenoid valve (13)</li>
+                    </ul></li>
+                <li>Inspect the lift pump (6) for damage and replace the lift pump if
+                    necessary.</li>
+                <li>Inspect the lift pump manifold (3) and the port threads for damage and replace
+                    the lift pump manifold if necessary.</li>
+            </ol>
+        </p>
+    </conbody>
+</concept>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="releasing_the_parking_brake">
+    <title>Releasing the Parking Brake</title>
+    <conbody>
+        <note id="note_ksh_qhd_n2c" type="warning"/>
+        <p><b>Risk of a crushing hazard.</b></p>
+        <p>When you manually release the brake on the pallet truck, the parking brake is out of
+            order. If the pallet truck is not chocked, the pallet truck can move.<ul
+                id="ul_lsf_xhd_n2c">
+                <li>Remove the load on the forks before releasing the brake.</li>
+                <li>See to SAFETY / Control of Hazardous Energy / Lockout/Tagout Procedures to fully
+                    prepare the pallet truck for maintenance.</li>
+            </ul></p>
+    </conbody>
+</concept>

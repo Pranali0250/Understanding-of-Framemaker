@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="lift_pump_inspection">
+    <title>Lift pump inspection</title>
+    <conbody>
+        <p><xref href="suction_filter_replacement.dita#suction_filter_replacement/fig_mmw_xsd_n2c"
+                >See Figure 2.</xref></p>
+        <p>Inspecting the lift pump</p>
+    </conbody>
+</concept>

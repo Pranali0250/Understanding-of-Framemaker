@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="battery_charging">
+    <title>Battery Charging</title>
+    <conbody>
+        <note id="note_b5g_q5c_n2c" type="warning">
+            <p><b>Risk of gas explosion.</b><ul id="ul_v5n_r5c_n2c">
+                    <li>Battery gases are explosive. Severe injury or death may result if the
+                        battery gas explodes.</li>
+                    <li>Do not smoke, use an open flame, or make an arc or sparks around the
+                        battery.</li>
+                    <li>Make sure the area where you charge the battery is well vented. Use
+                        designated areas for charging batteries if they are available.</li>
+                </ul><note id="note_skl_t5c_n2c">
+                    <ul id="ul_owb_55c_n2c">
+                        <li>See the battery charger manual or see ELECTRICAL SYSTEM / Battery /
+                            Battery Charger for instructions on operation and maintenance.</li>
+                    </ul>
+                </note></p>
+        </note>
+    </conbody>
+</concept>

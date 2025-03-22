@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="removing_the_lift_pump_and_the_lift_pump_motor">
+    <title>Removing the lift pump and the lift pump motor</title>
+    <shortdesc><xref href="#removing_the_lift_pump_and_the_lift_pump_motor/image_mp1_dsd_n2c">See
+            Figure 1</xref>.</shortdesc>
+    <taskbody>
+        <steps id="steps_oc5_prd_n2c">
+            <step>
+                <cmd>If the lift pump (1) and the lift pump motor (M2) (2) are disassembled, prepare
+                    to catch hydraulic oil or other absorbent material with a catch pan.</cmd>
+            </step>
+            <step>
+                <cmd>Disconnect the solenoid valve (SV) wires (3).</cmd>
+            </step>
+            <step>
+                <cmd>Disconnect the M2 power cables (4).</cmd>
+            </step>
+            <step>
+                <cmd>Disconnect the connection for the lift pump output (5).</cmd>
+            </step>
+            <step>
+                <cmd>Support the lift pump (1) and M2 (2).</cmd>
+            </step>
+            <step>
+                <cmd>Remove the two screws (6) from the power unit to remove the lift pump (1) and
+                    M2 (2).</cmd>
+                <info>
+                    <fig id="fig_qlm_lyy_n2c">
+                        <title>fig.1 (35314)<image
+                                href="images/removing_the_lift_pump_and_the_lift_pump_motor.png"
+                                placement="break" id="image_mp1_dsd_n2c" align="center"/></title>
+                    </fig>
+                    <fig/>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Control of Hazardous Energy</title>
+    <topicref href="control_of_hazardous_energy_0.dita">
+        <topicref href="lockout_tagout.dita"/>
+        <topicref href="battery">
+            <topicref href="safety_procedures.dita"/>
+            <topicref href="battery_charging.dita"/>
+            <topicref href="battery_maintenance.dita"/>
+            <topicref href="battery_removal_and_installation.dita"/>
+        </topicref>
+        <topicref href="lockout_tagout_procedures.dita">
+            <topicref
+                href="performing_maintenance_on_the_pallet_truck_with_the_battery_in_the_pallet_truck.dita"/>
+            <topicref
+                href="performing_maintenance_on_the_pallet_truck_with_the_battery_out_of_the_pallet_truck.dita"
+            />
+        </topicref>
+        <topicref href="capacitance.dita">
+            <topicref href="discharging_the_capacitor.dita"/>
+        </topicref>
+        <topicref href="releasing_the_parking_brake.dita">
+            <topicref href="releasing_the_parking_brake_manually.dita"/>
+        </topicref>
+        <topicref href="hydraulic_pressure.dita"/>
+        <topicref href="lifting_and_blocking.dita">
+            <topicref href="lifting_and_blocking_the_pallet_truck.dita"/>
+        </topicref>
+    </topicref>
+</map>

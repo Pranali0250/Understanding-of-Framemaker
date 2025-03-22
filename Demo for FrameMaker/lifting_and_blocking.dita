@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="lifting_and_blocking">
+    <title>Lifting and Blocking</title>
+    <shortdesc>Special tools and equipment:</shortdesc>
+    <conbody>
+        <ul id="ul_jn2_qpd_n2c">
+            <li>Hydraulic jack: Capacity 3,620 kg (8,000 lb)</li>
+            <li>
+                <ul id="ul_yy1_rpd_n2c">
+                    <li>Part number: 122599</li>
+                    <li>Collapsed height minimum: 60 mm (2.25 in)</li>
+                    <li>Lift height maximum: 400 mm (16 in)</li>
+                </ul>
+            </li>
+            <li>Jack stand: Capacity 4,500 kg (10,000 lb)</li>
+            <li>Lift straps: Capacity 900 kg (2,000 lb)</li>
+        </ul>
+    </conbody>
+</concept>

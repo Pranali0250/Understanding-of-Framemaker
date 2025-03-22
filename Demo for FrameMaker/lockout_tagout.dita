@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="lockout_tagout">
+    <title>Lockout/Tagout</title>
+    <conbody>
+        <p>For safety and to obey OSHA Regulations, (Standards - 29 CFR), control of hazardous
+            energy (Lockout/Tagout - 1910.147), Crown Equipment Corporation has instructions for the
+            correct energy control when completing maintenance on the pallet truck. Before
+            completing maintenance on the pallet truck, see the applicable sections in this manual
+            for the following procedures.</p>
+        <p>Crown Equipment Corporation recommends that all technicians wear applicable protective
+            items when servicing Crown equipment. Some examples of these protective items are:<ul
+                id="ul_m4f_y5y_n2c">
+                <li>Eye protection</li>
+                <li>Work gloves</li>
+                <li>Safety-toe shoes</li>
+            </ul></p>
+    </conbody>
+</concept>

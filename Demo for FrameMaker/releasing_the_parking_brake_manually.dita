@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="releasing_the_parking_brake_manually">
+    <title>Releasing the parking brake manually</title>
+    <conbody>
+        <p>See Figure 2. The parking brake (1) is spring-applied and electrically released. When the
+            pallet truck is de-energized, the parking brake is applied.<ul id="ul_pyv_x4d_n2c">
+                <li>To move the pallet truck while it is de-energized, the parking brake has two
+                    screws (2) that must be manually loosened to release the parking brake.<fig
+                        id="fig_ygg_z4d_n2c">
+                        <title>(26016-01)</title>
+                        <image href="images/releasing_the_parking_brake_manually.png"
+                            placement="break" id="image_mhb_z4d_n2c" align="center"/>
+                    </fig></li>
+            </ul></p>
+    </conbody>
+</concept>

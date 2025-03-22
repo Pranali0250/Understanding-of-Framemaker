@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="capacitance">
+    <title>Capacitance</title>
+    <conbody>
+        <note id="note_kzd_ngd_n2c" type="warning"> charged capacitor could be
+                dangerous.<p>Uncontrolled discharge of stored electrical energy in some control
+                modules can cause injury or damage the pallet truck.<ul id="ul_yzf_4gd_n2c">
+                    <li>When performing pallet truck maintenance around the bus bars and related
+                        power cables, discharge the capacitors.</li>
+                    <li>See SAFETY / Control of Hazardous Energy / Capacitance for procedures to
+                        discharge the capacitors.</li>
+                </ul></p></note>
+    </conbody>
+</concept>

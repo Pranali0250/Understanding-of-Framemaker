@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="performing_maintenance_on_the_pallet_truck_with_the_battery_out_of_the_pallet_truck">
+    <title>Performing maintenance on the pallet truck (with the battery out of the pallet truck)</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Remove the primary power fuses.</cmd>
+            </step>
+            <step>
+                <cmd>If possible, install a lockout device on the pallet truck battery connector.Or,
+                    install a tag with a cable tie on the pallet truck battery connector.</cmd>
+            </step>
+        </steps></taskbody>
+</task>

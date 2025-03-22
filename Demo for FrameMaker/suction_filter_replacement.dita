@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="suction_filter_replacement">
+    <title>Suction filter replacement</title>
+    <shortdesc><xref href="#suction_filter_replacement/fig_mmw_xsd_n2c">See Figure
+        2.</xref></shortdesc>
+    <taskbody><context>
+        <p>Replacing the suction filter</p>
+    </context>
+        <steps id="steps_h4v_5sd_n2c">
+            <step>
+                <cmd>Remove the clamp (1) to remove the tank (2) from the lift pump manifold
+                    (3).</cmd>
+            </step>
+            <step>
+                <cmd>Remove the suction filter (4) from the suction pipe (5).</cmd>
+            </step>
+            <step>
+                <cmd>Install the new suction filter (4). Torque the new suction filter (4) to 10 N m
+                    (7 ft lb).</cmd>
+                <info>
+                    <fig id="fig_mmw_xsd_n2c">
+                        <title>fig 2 (5315)</title>
+                        <image href="images/suction_filter_replacement.png" placement="break"
+                            id="image_ogm_xsd_n2c" align="center"/>
+                    </fig>
+                </info>
+            </step>
+        </steps></taskbody>
+</task>

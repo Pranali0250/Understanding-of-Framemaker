@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="preparing_the_pallet_truck_for_operation">
+    <title>Preparing the pallet truck for operation</title>
+    <taskbody>
+        <context>
+            <note id="note_mnq_f5d_n2c" type="tip">
+                <p>Technician Tips: Do not operate the lift pump without hydraulic oil.</p>
+            </note>
+        </context>
+        <steps>
+            <step>
+                <cmd>Fill the reservoir with clean, filtered (10 micron minimum) hydraulic oil
+                    approximately 20 mm (0.75 in) below the bottom of the vent cap.</cmd>
+            </step>
+            <step>
+                <cmd>Remove the lockout / tagout device.</cmd>
+            </step>
+            <step>
+                <cmd>Connect the battery.</cmd>
+            </step>
+            <step>
+                <cmd>Remove the chocks from the wheels.</cmd>
+            </step>
+            <step>
+                <cmd>Turn on the pallet truck.</cmd>
+            </step>
+            <step>
+                <cmd>Without a load on the forks, push the raise switch (RAS) to operate the lift
+                    pump and to make sure that there is sufficient lubrication.</cmd>
+                <info>
+                    <ul id="ul_fj2_l5d_n2c">
+                        <li>If the hydraulic oil foams after 20 seconds, refer to the Lift Pump
+                            Troubleshooting table.</li>
+                    </ul>
+                </info>
+            </step>
+            <step>
+                <cmd>When the hydraulic system is at operating temperature, make sure that the
+                    connections do not leak.</cmd>
+            </step>
+            <step>
+                <cmd>Install the power unit covers.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

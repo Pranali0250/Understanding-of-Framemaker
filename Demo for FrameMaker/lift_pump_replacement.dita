@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="lift_pump_replacement">
+    <title>Lift pump replacement</title>
+    <taskbody><context>
+        <p>Replacing the lift pump</p>
+    </context>
+        <steps id="steps_myw_xtd_n2c">
+            <step>
+                <cmd>Lubricate the O-rings (15) with hydraulic oil.</cmd>
+            </step>
+            <step>
+                <cmd>Install the O-rings (15).</cmd>
+            </step>
+            <step>
+                <cmd>Install the lift pump (6) and the tank (1) on the lift pump manifold (3) with
+                    the clamp (1). Torque the clamp (1) to 3–4 N m (27–35 in lb).</cmd>
+            </step>
+            <step>
+                <cmd>Install the lift pump and M2 on the power unit with the two screws (6). Torque
+                    the two screws to 10 N m (7 ft lb).</cmd>
+            </step>
+            <step>
+                <cmd>Connect the connection for the lift pump output (5).</cmd>
+            </step>
+            <step>
+                <cmd>Connect the M2 power cables (4). Torque the M2 power cables to 8 N m (6 ft
+                    lb).</cmd>
+            </step>
+            <step>
+                <cmd>Connect the SV wires (3).</cmd>
+            </step>
+        </steps></taskbody>
+</task>

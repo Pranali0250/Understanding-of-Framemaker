@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<bookmap xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map bookmap/bookmap " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (map bookmap) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic xnal-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="bookmap:1;3:10" xtrf="file:/D:/Frammemaker%20assignment%202/Maintenance_manual.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><booktitle xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title bookmap/booktitle ">  <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">Maintenance_manual</mainbooktitle>  </booktitle></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <booktitle class="- topic/title bookmap/booktitle ">  <mainbooktitle class="- topic/ph bookmap/mainbooktitle ">Maintenance_manual</mainbooktitle>  </booktitle>
+    <frontmatter class="- map/topicref bookmap/frontmatter "><booklists class="- map/topicref bookmap/booklists "/></frontmatter>
+    <topicref is-chapter="true" class="- map/topicref bookmap/chapter " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="control_of_hazardous_energy_0"><resourceid appid="control_of_hazardous_energy_0" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Control of Hazardous Energy</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_2" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="lockout_tagout"><resourceid appid="lockout_tagout" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Lockout/Tagout</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_3" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="battery"><resourceid appid="battery" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Battery</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_4" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="safety_procedures"><resourceid appid="safety_procedures" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Safety Procedures</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_5" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="battery_charging"><resourceid appid="battery_charging" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Battery Charging</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_6" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="battery_maintenance"><resourceid appid="battery_maintenance" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Battery Maintenance</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_7" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="battery_removal_and_installation"><resourceid appid="battery_removal_and_installation" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Battery Removal and Installation</navtitle><?ditaot gentext?></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_8" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="lockout_tagout_procedures"><resourceid appid="lockout_tagout_procedures" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">Lockout / Tagout Procedures</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_9" type="task"><topicmeta class="- map/topicmeta " data-topic-id="performing_maintenance_on_the_pallet_truck_with_the_battery_in_the_pallet_truck"><resourceid appid="performing_maintenance_on_the_pallet_truck_with_the_battery_in_the_pallet_truck" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">Performing maintenance on the pallet truck (with the battery in the pallet truck)</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_10" type="task"><topicmeta class="- map/topicmeta " data-topic-id="performing_maintenance_on_the_pallet_truck_with_the_battery_out_of_the_pallet_truck"><resourceid appid="performing_maintenance_on_the_pallet_truck_with_the_battery_out_of_the_pallet_truck" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">Performing maintenance on the pallet truck (with the battery out of the pallet truck)</navtitle><?ditaot gentext?></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_11" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="capacitance"><resourceid appid="capacitance" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">Capacitance</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_12" type="task"><topicmeta class="- map/topicmeta " data-topic-id="discharging_the_capacitor"><resourceid appid="discharging_the_capacitor" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_12" class="- topic/navtitle ">Discharging the capacitor</navtitle><?ditaot gentext?></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_13" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="releasing_the_parking_brake"><resourceid appid="releasing_the_parking_brake" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_13" class="- topic/navtitle ">Releasing the Parking Brake</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_14" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="releasing_the_parking_brake_manually"><resourceid appid="releasing_the_parking_brake_manually" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_14" class="- topic/navtitle ">Releasing the parking brake manually</navtitle><?ditaot gentext?></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_15" type="task"><topicmeta class="- map/topicmeta " data-topic-id="hydraulic_pressure"><resourceid appid="hydraulic_pressure" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_15" class="- topic/navtitle ">Hydraulic Pressure</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_16" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="lifting_and_blocking"><resourceid appid="lifting_and_blocking" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_16" class="- topic/navtitle ">Lifting and Blocking</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Special tools and equipment:</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_17" type="task"><topicmeta class="- map/topicmeta " data-topic-id="lifting_and_blocking_the_pallet_truck"><resourceid appid="lifting_and_blocking_the_pallet_truck" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_17" class="- topic/navtitle ">Lifting and blocking the pallet truck</navtitle><?ditaot gentext?></topicmeta></topicref></topicref></topicref>
+    <topicref is-chapter="true" class="- map/topicref bookmap/chapter " href="#unique_18" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="lift_pump_and_lift_pump_motor"><resourceid appid="lift_pump_and_lift_pump_motor" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_18" class="- topic/navtitle ">Lift Pump and Lift Pump Motor</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_19" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="lift_pump_and_lift_pump_motor_removal"><resourceid appid="lift_pump_and_lift_pump_motor_removal" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_19" class="- topic/navtitle ">Lift pump and lift pump motor removal</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_20" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="special_tools_and_equipment"><resourceid appid="special_tools_and_equipment" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_20" class="- topic/navtitle ">Special tools and equipment</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_21" type="task"><topicmeta class="- map/topicmeta " data-topic-id="removing_the_lift_pump_and_the_lift_pump_motor"><resourceid appid="removing_the_lift_pump_and_the_lift_pump_motor" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_21" class="- topic/navtitle ">Removing the lift pump and the lift pump motor</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "><xref class="- topic/xref " href="Framemaker%20Assignment/removing_the_lift_pump_and_the_lift_pump_motor.dita#removing_the_lift_pump_and_the_lift_pump_motor/image_mp1_dsd_n2c">See             Figure 1</xref>.</shortdesc></topicmeta></topicref></topicref></topicref><topicref class="- map/topicref " href="#unique_22" type="task"><topicmeta class="- map/topicmeta " data-topic-id="suction_filter_replacement"><resourceid appid="suction_filter_replacement" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_22" class="- topic/navtitle ">Suction filter replacement</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "><xref class="- topic/xref " href="Framemaker%20Assignment/suction_filter_replacement.dita#suction_filter_replacement/fig_mmw_xsd_n2c">See Figure         2.</xref></shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_23" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="inspecting_the_lift_pump"><resourceid appid="inspecting_the_lift_pump" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_23" class="- topic/navtitle ">Inspecting the lift pump</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_24" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="lift_pump_inspection"><resourceid appid="lift_pump_inspection" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_24" class="- topic/navtitle ">Lift pump inspection</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_25" type="task"><topicmeta class="- map/topicmeta " data-topic-id="lift_pump_replacement"><resourceid appid="lift_pump_replacement" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_25" class="- topic/navtitle ">Lift pump replacement</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_26" type="task"><topicmeta class="- map/topicmeta " data-topic-id="preparing_the_pallet_truck_for_operation"><resourceid appid="preparing_the_pallet_truck_for_operation" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_26" class="- topic/navtitle ">Preparing the pallet truck for operation</navtitle><?ditaot gentext?></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_27" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="lift_pump_troubleshooting_0"><resourceid appid="lift_pump_troubleshooting_0" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_27" class="- topic/navtitle ">Lift Pump Troubleshooting</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_28" type="troubleshooting"><topicmeta class="- map/topicmeta " data-topic-id="lift_pump_troubleshooting"><resourceid appid="lift_pump_troubleshooting" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_28" class="- topic/navtitle ">Lift Pump Troubleshooting</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_29" type="troubleshooting"><topicmeta class="- map/topicmeta " data-topic-id="lift_pump_troubleshooting_1"><resourceid appid="lift_pump_troubleshooting_1" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_29" class="- topic/navtitle ">Lift Pump Troubleshooting_1</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_30" type="troubleshooting"><topicmeta class="- map/topicmeta " data-topic-id="lift_pump_troubleshooting_2"><resourceid appid="lift_pump_troubleshooting_2" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_30" class="- topic/navtitle ">Lift Pump Troubleshooting_2</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_31" type="troubleshooting"><topicmeta class="- map/topicmeta " data-topic-id="lift_pump_troubleshooting_3"><resourceid appid="lift_pump_troubleshooting_3" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_31" class="- topic/navtitle ">Lift Pump Troubleshooting_3</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_32" type="troubleshooting"><topicmeta class="- map/topicmeta " data-topic-id="lift_pump_troubleshooting_4"><resourceid appid="lift_pump_troubleshooting_4" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_32" class="- topic/navtitle ">Lift Pump Troubleshooting_4</navtitle><?ditaot gentext?></topicmeta></topicref></topicref></topicref>
+</opentopic:map><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref bookmap/chapter " nd:nd-id="control_of_hazardous_energy_0" oid="control_of_hazardous_energy_0" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Control of Hazardous Energy</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "/>
+    </conbody>
+<concept class="- topic/topic concept/concept " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="lockout_tagout" oid="lockout_tagout" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Lockout/Tagout</ph></title>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">For safety and to obey OSHA Regulations, (Standards - 29 CFR), control of hazardous
+            energy (Lockout/Tagout - 1910.147), Crown Equipment Corporation has instructions for the
+            correct energy control when completing maintenance on the pallet truck. Before
+            completing maintenance on the pallet truck, see the applicable sections in this manual
+            for the following procedures.</p>
+        <p class="- topic/p ">Crown Equipment Corporation recommends that all technicians wear applicable protective
+            items when servicing Crown equipment. Some examples of these protective items are:<ul class="- topic/ul " id="unique_2_Connect_42_ul_m4f_y5y_n2c" nd:nd-id="ul_m4f_y5y_n2c">
+                <li class="- topic/li ">Eye protection</li>
+                <li class="- topic/li ">Work gloves</li>
+                <li class="- topic/li ">Safety-toe shoes</li>
+            </ul></p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="battery" oid="battery" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Battery</ph></title>
+<concept class="- topic/topic concept/concept " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="safety_procedures" oid="safety_procedures" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Safety Procedures</ph></title>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Wear protective items when doing maintenance on the batteries. Some examples of these
+            protective items are:<ul class="- topic/ul " id="unique_4_Connect_42_ul_xfw_wsc_n2c" nd:nd-id="ul_xfw_wsc_n2c">
+                <li class="- topic/li ">A rubber apron</li>
+                <li class="- topic/li ">Gloves</li>
+                <li class="- topic/li ">Boots</li>
+                <li class="- topic/li ">A full-face shield</li>
+            </ul></p>
+        <note class="- topic/note " id="unique_4_Connect_42_note_u3c_y5c_n2c" nd:nd-id="note_u3c_y5c_n2c" type="caution">
+            <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Risk of burns by battery acid </b><ul class="- topic/ul " id="unique_4_Connect_42_ul_xbs_z5c_n2c" nd:nd-id="ul_xbs_z5c_n2c">
+                    <li class="- topic/li ">The battery contains battery acid which could cause burns if you touch
+                        it.</li>
+                    <li class="- topic/li ">Do not let the battery acid touch your eyes, skin, or clothing.</li>
+                    <li class="- topic/li ">If battery acid touches your skin, immediately clean the area with soap and
+                        water and get medical aid.</li>
+                    <li class="- topic/li ">If battery acid touches your eyes, immediately flush your eyes with clean
+                        water and get medical aid.</li>
+                    <li class="- topic/li ">If you spill battery acid, use a Battery Spill Kit (300035) to make the
+                        battery acid neutral and clean it up. Follow the manufacturer directions to
+                        use the kit.</li>
+                </ul></p>
+        </note>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="battery_charging" oid="battery_charging" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Battery Charging</ph></title>
+    <conbody class="- topic/body  concept/conbody ">
+        <note class="- topic/note " id="unique_5_Connect_42_note_b5g_q5c_n2c" nd:nd-id="note_b5g_q5c_n2c" type="warning">
+            <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Risk of gas explosion.</b><ul class="- topic/ul " id="unique_5_Connect_42_ul_v5n_r5c_n2c" nd:nd-id="ul_v5n_r5c_n2c">
+                    <li class="- topic/li ">Battery gases are explosive. Severe injury or death may result if the
+                        battery gas explodes.</li>
+                    <li class="- topic/li ">Do not smoke, use an open flame, or make an arc or sparks around the
+                        battery.</li>
+                    <li class="- topic/li ">Make sure the area where you charge the battery is well vented. Use
+                        designated areas for charging batteries if they are available.</li>
+                </ul><note class="- topic/note " id="unique_5_Connect_42_note_skl_t5c_n2c" nd:nd-id="note_skl_t5c_n2c">
+                    <ul class="- topic/ul " id="unique_5_Connect_42_ul_owb_55c_n2c" nd:nd-id="ul_owb_55c_n2c">
+                        <li class="- topic/li ">See the battery charger manual or see ELECTRICAL SYSTEM / Battery /
+                            Battery Charger for instructions on operation and maintenance.</li>
+                    </ul>
+                </note></p>
+        </note>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="battery_maintenance" oid="battery_maintenance" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Battery Maintenance</ph></title>
+    <conbody class="- topic/body  concept/conbody ">
+        <note class="- topic/note " id="unique_6_Connect_42_note_nms_f5c_n2c" nd:nd-id="note_nms_f5c_n2c" type="warning">
+            <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Risk of burns by short circuits and high current. </b><ul class="- topic/ul " id="unique_6_Connect_42_ul_nhr_h5c_n2c" nd:nd-id="ul_nhr_h5c_n2c">
+                    <li class="- topic/li ">Unapproved handling of tools on batteries can cause an injury or damage to
+                        the pallet truck.</li>
+                    <li class="- topic/li ">Do maintenance and repair on batteries only if you are approved for this
+                        work.</li>
+                    <li class="- topic/li ">Do not allow metal objects to come in contact with the top of battery
+                        cells.</li>
+                </ul><note class="- topic/note " id="unique_6_Connect_42_note_cxq_j5c_n2c" nd:nd-id="note_cxq_j5c_n2c">
+                    <ul class="- topic/ul " id="unique_6_Connect_42_ul_hrc_l5c_n2c" nd:nd-id="ul_hrc_l5c_n2c">
+                        <li class="- topic/li ">Make sure that the battery charger has the same voltage and amperage as
+                            the pallet truck battery. The voltage is on the pallet truck data
+                            plate.</li>
+                        <li class="- topic/li ">Before connecting or disconnecting a battery to a battery charger, make
+                            sure that the battery charger is off. If the battery is connected or
+                            disconnected and the battery charger is on, an injury could occur to
+                            you, the battery, and the battery charger.</li>
+                        <li class="- topic/li ">Make sure that the battery has the same weight, dimension, amperage, and
+                            voltage specifications as the pallet truck (see to the pallet truck data
+                            plate). Do not operate a pallet truck without the correct battery.</li>
+                    </ul>
+                </note></p>
+        </note>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="battery_removal_and_installation" oid="battery_removal_and_installation" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Battery Removal and Installation</ph></title>
+    <conbody class="- topic/body  concept/conbody ">
+        <note class="- topic/note " id="unique_7_Connect_42_note_ktw_lvc_n2c" nd:nd-id="note_ktw_lvc_n2c" type="warning">
+            <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Conductive objects that touch the connectors of the battery cells cause a short
+                    circuit.</b></p>
+            <ul class="- topic/ul " id="unique_7_Connect_42_ul_ocd_nvc_n2c" nd:nd-id="ul_ocd_nvc_n2c">
+                <li class="- topic/li ">Use an insulator (such as plywood) as a cover on the top of the battery before
+                    and during removal and installation.</li>
+            </ul>
+        </note>
+        <note class="- topic/note " id="unique_7_Connect_42_note_xcs_nvc_n2c" nd:nd-id="note_xcs_nvc_n2c" type="warning">
+            <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Risk of a crushing hazard.</b></p>
+            <p class="- topic/p ">If the battery is pulled from the pallet truck without a battery roller stand in
+                position, the battery can tip over and cause a severe injury.</p>
+            <ul class="- topic/ul " id="unique_7_Connect_42_ul_pjf_rvc_n2c" nd:nd-id="ul_pjf_rvc_n2c">
+                <li class="- topic/li ">Put the battery roller stand in position before moving the battery.</li>
+            </ul>
+        </note>
+        <note class="- topic/note " id="unique_7_Connect_42_note_mdw_rvc_n2c" nd:nd-id="note_mdw_rvc_n2c" type="caution">
+            <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Risk of tip over.</b></p>
+            <p class="- topic/p ">The incorrect battery weight and dimensions can make the pallet truck unstable.</p>
+            <ul class="- topic/ul " id="unique_7_Connect_42_ul_p4x_5vc_n2c" nd:nd-id="ul_p4x_5vc_n2c">
+                <li class="- topic/li ">Install the same battery or a battery of equal weight and dimension in the
+                    pallet truck.</li>
+                <li class="- topic/li ">See the data plate for the minimum battery weight and dimension</li>
+            </ul>
+            <ul class="- topic/ul " id="unique_7_Connect_42_ul_m5y_vvc_n2c" nd:nd-id="ul_m5y_vvc_n2c">
+                <li class="- topic/li ">For industrial battery removal and installation procedures, see ELECTRICAL
+                    SYSTEM / Battery / Industrial Battery Removal and Installation.</li>
+                <li class="- topic/li ">For battery pack removal and installation procedures, see ELECTRICAL SYSTEM /
+                    Battery / Battery Pack Removal and Installation.</li>
+            </ul>
+        </note>
+        <image align="center" class="- topic/image " dita-ot:image-width="314" dita-ot:image-height="288" href="file:/D:/Frammemaker%20assignment%202/Framemaker%20Assignment/images/battery_removal_and_installation.png" id="unique_7_Connect_42_image_zkh_dwc_n2c" nd:nd-id="image_zkh_dwc_n2c" placement="break"/>
+        <table class="- topic/table " colsep="0" frame="all" id="unique_7_Connect_42_table_xsw_nwc_n2c" nd:nd-id="table_xsw_nwc_n2c" rowsep="0">
+            <tgroup class="- topic/tgroup " cols="2">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;41:65" xtrf="file:/D:/Frammemaker%20assignment%202/Framemaker%20Assignment/battery_removal_and_installation.dita" style="width:50%;"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;42:65" xtrf="file:/D:/Frammemaker%20assignment%202/Framemaker%20Assignment/battery_removal_and_installation.dita" style="width:50%;"/>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">1</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">Wet or dry cell battery</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">2</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">Maintenance free battery</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">3</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">Thin plate pure lead (TPPL) battery</entry></row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept></concept><concept class="- topic/topic concept/concept " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="lockout_tagout_procedures" oid="lockout_tagout_procedures" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Lockout / Tagout Procedures</ph></title>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Lockout / tagout procedures for the pallet truck<ul class="- topic/ul " id="unique_8_Connect_42_ul_mvz_rfd_n2c" nd:nd-id="ul_mvz_rfd_n2c">
+                <li class="- topic/li ">Technician Tips: A lockout / tagout kit (300037) is available. See the One
+                    Source Catalog.</li>
+                <li class="- topic/li ">Technician Tips: These procedures let the other personnel know that the pallet
+                    truck is not available for operation.<ol class="- topic/ol " id="unique_8_Connect_42_ol_vbj_wfd_n2c" nd:nd-id="ol_vbj_wfd_n2c">
+                        <li class="- topic/li ">Turn off the pallet truck.</li>
+                        <li class="- topic/li ">Remove the key.</li>
+                        <li class="- topic/li ">See Figure 2. Apply a tag to the grip with a cable tie. The tag provides
+                            a warning that the pallet truck is not available for operation.</li>
+                    </ol><fig class="- topic/fig " id="unique_8_Connect_42_fig_tl4_zfd_n2c" nd:nd-id="fig_tl4_zfd_n2c"><image align="center" class="- topic/image " dita-ot:image-width="282" dita-ot:image-height="284" href="file:/D:/Frammemaker%20assignment%202/Framemaker%20Assignment/images/lockout_tagout_procedures.png" id="unique_8_Connect_42_image_pds_yfd_n2c" nd:nd-id="image_pds_yfd_n2c" placement="break"/></fig></li>
+            </ul></p>
+    </conbody>
+<task class="- topic/topic task/task " id="unique_9" topicrefclass="- map/topicref " nd:nd-id="performing_maintenance_on_the_pallet_truck_with_the_battery_in_the_pallet_truck" oid="performing_maintenance_on_the_pallet_truck_with_the_battery_in_the_pallet_truck" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Performing maintenance on the pallet truck (with the battery in the pallet truck)</ph></title>
+    <taskbody class="- topic/body task/taskbody ">
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Disconnect the battery.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Remove the primary power fuses.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Install a lockout device on the battery connector.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="performing_maintenance_on_the_pallet_truck_with_the_battery_out_of_the_pallet_truck" oid="performing_maintenance_on_the_pallet_truck_with_the_battery_out_of_the_pallet_truck" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Performing maintenance on the pallet truck (with the battery out of the pallet truck)</ph></title>
+    <taskbody class="- topic/body task/taskbody ">
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Remove the primary power fuses.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">If possible, install a lockout device on the pallet truck battery connector.Or,
+                    install a tag with a cable tie on the pallet truck battery connector.</cmd>
+            </step>
+        </steps></taskbody>
+</task></concept><concept class="- topic/topic concept/concept " id="unique_11" topicrefclass="- map/topicref " nd:nd-id="capacitance" oid="capacitance" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Capacitance</ph></title>
+    <conbody class="- topic/body  concept/conbody ">
+        <note class="- topic/note " id="unique_11_Connect_42_note_kzd_ngd_n2c" nd:nd-id="note_kzd_ngd_n2c" type="warning"> charged capacitor could be
+                dangerous.<p class="- topic/p ">Uncontrolled discharge of stored electrical energy in some control
+                modules can cause injury or damage the pallet truck.<ul class="- topic/ul " id="unique_11_Connect_42_ul_yzf_4gd_n2c" nd:nd-id="ul_yzf_4gd_n2c">
+                    <li class="- topic/li ">When performing pallet truck maintenance around the bus bars and related
+                        power cables, discharge the capacitors.</li>
+                    <li class="- topic/li ">See SAFETY / Control of Hazardous Energy / Capacitance for procedures to
+                        discharge the capacitors.</li>
+                </ul></p></note>
+    </conbody>
+<task class="- topic/topic task/task " id="unique_12" topicrefclass="- map/topicref " nd:nd-id="discharging_the_capacitor" oid="discharging_the_capacitor" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Discharging the capacitor</ph></title>
+    <taskbody class="- topic/body task/taskbody ">
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Move the pallet truck to a maintenance area with a level floor.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Fully lower the forks.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Turn off the pallet truck.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Disconnect the battery.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Put the chocks against the wheels to prevent the movement of the pallet truck.
+                    See SAFETY / Control of Hazardous Energy / Lifting and Blocking.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Complete the lockout / tagout procedures for the pallet truck. See SAFETY /
+                    Control of Hazardous Energy / Lockout/Tagout Procedures.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Turn the key switch to the start position and hold a minimum of 10 s.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">See Figure 3. To make sure that the capacitors discharge, put a DVOM across the
+                    positive (1) and negative terminals (2) of Access 3™ (3). The voltage must be
+                    less than 1 V.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Turn off the pallet truck and remove the key.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <fig class="- topic/fig " id="d255e730"><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper "> (35306)<image align="center" class="- topic/image " dita-ot:image-width="304" dita-ot:image-height="344" href="file:/D:/Frammemaker%20assignment%202/Framemaker%20Assignment/images/discharging_the_capacitor.png" id="unique_12_Connect_42_image_hnc_2hd_n2c" nd:nd-id="image_hnc_2hd_n2c" placement="break"/></ph></title></fig>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task></concept><concept class="- topic/topic concept/concept " id="unique_13" topicrefclass="- map/topicref " nd:nd-id="releasing_the_parking_brake" oid="releasing_the_parking_brake" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Releasing the Parking Brake</ph></title>
+    <conbody class="- topic/body  concept/conbody ">
+        <note class="- topic/note " id="unique_13_Connect_42_note_ksh_qhd_n2c" nd:nd-id="note_ksh_qhd_n2c" type="warning"/>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Risk of a crushing hazard.</b></p>
+        <p class="- topic/p ">When you manually release the brake on the pallet truck, the parking brake is out of
+            order. If the pallet truck is not chocked, the pallet truck can move.<ul class="- topic/ul " id="unique_13_Connect_42_ul_lsf_xhd_n2c" nd:nd-id="ul_lsf_xhd_n2c">
+                <li class="- topic/li ">Remove the load on the forks before releasing the brake.</li>
+                <li class="- topic/li ">See to SAFETY / Control of Hazardous Energy / Lockout/Tagout Procedures to fully
+                    prepare the pallet truck for maintenance.</li>
+            </ul></p>
+    </conbody>
+<concept class="- topic/topic concept/concept " id="unique_14" topicrefclass="- map/topicref " nd:nd-id="releasing_the_parking_brake_manually" oid="releasing_the_parking_brake_manually" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Releasing the parking brake manually</ph></title>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">See Figure 2. The parking brake (1) is spring-applied and electrically released. When the
+            pallet truck is de-energized, the parking brake is applied.<ul class="- topic/ul " id="unique_14_Connect_42_ul_pyv_x4d_n2c" nd:nd-id="ul_pyv_x4d_n2c">
+                <li class="- topic/li ">To move the pallet truck while it is de-energized, the parking brake has two
+                    screws (2) that must be manually loosened to release the parking brake.<fig class="- topic/fig " id="unique_14_Connect_42_fig_ygg_z4d_n2c" nd:nd-id="fig_ygg_z4d_n2c"><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">(26016-01)</ph></title><image align="center" class="- topic/image " dita-ot:image-width="296" dita-ot:image-height="270" href="file:/D:/Frammemaker%20assignment%202/Framemaker%20Assignment/images/releasing_the_parking_brake_manually.png" id="unique_14_Connect_42_image_mhb_z4d_n2c" nd:nd-id="image_mhb_z4d_n2c" placement="break"/></fig></li>
+            </ul></p>
+    </conbody>
+</concept></concept><task class="- topic/topic task/task " id="unique_15" topicrefclass="- map/topicref " nd:nd-id="hydraulic_pressure" oid="hydraulic_pressure" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Hydraulic Pressure</ph></title>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">Releasing the pressure from the hydraulic system</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Turn on the pallet truck.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Push the lower switch.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <ul class="- topic/ul " id="unique_15_Connect_42_ul_nkn_hpd_n2c" nd:nd-id="ul_nkn_hpd_n2c">
+                        <li class="- topic/li ">The forks lower.</li>
+                    </ul>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">With the forks fully lowered, keep the lower switch pushed for a minimum of 10
+                    s.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <ul class="- topic/ul " id="unique_15_Connect_42_ul_whx_3pd_n2c" nd:nd-id="ul_whx_3pd_n2c">
+                        <li class="- topic/li ">The pressure in the hydraulic system decreases to 0 psi (0 bar).</li>
+                    </ul>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Turn off the pallet truck.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Complete the lockout / tagout procedures for the pallet truck. See SAFETY /
+                    Control of Hazardous Energy / Lockout/Tagout Procedures.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><concept class="- topic/topic concept/concept " id="unique_16" topicrefclass="- map/topicref " nd:nd-id="lifting_and_blocking" oid="lifting_and_blocking" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Lifting and Blocking</ph></title>
+    <shortdesc class="- topic/shortdesc ">Special tools and equipment:</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <ul class="- topic/ul " id="unique_16_Connect_42_ul_jn2_qpd_n2c" nd:nd-id="ul_jn2_qpd_n2c">
+            <li class="- topic/li ">Hydraulic jack: Capacity 3,620 kg (8,000 lb)</li>
+            <li class="- topic/li ">
+                <ul class="- topic/ul " id="unique_16_Connect_42_ul_yy1_rpd_n2c" nd:nd-id="ul_yy1_rpd_n2c">
+                    <li class="- topic/li ">Part number: 122599</li>
+                    <li class="- topic/li ">Collapsed height minimum: 60 mm (2.25 in)</li>
+                    <li class="- topic/li ">Lift height maximum: 400 mm (16 in)</li>
+                </ul>
+            </li>
+            <li class="- topic/li ">Jack stand: Capacity 4,500 kg (10,000 lb)</li>
+            <li class="- topic/li ">Lift straps: Capacity 900 kg (2,000 lb)</li>
+        </ul>
+    </conbody>
+<task class="- topic/topic task/task " id="unique_17" topicrefclass="- map/topicref " nd:nd-id="lifting_and_blocking_the_pallet_truck" oid="lifting_and_blocking_the_pallet_truck" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Lifting and blocking the pallet truck</ph></title>
+    <taskbody class="- topic/body task/taskbody ">
+        <steps class="- topic/ol task/steps " id="unique_17_Connect_42_steps_zgs_1qd_n2c" nd:nd-id="steps_zgs_1qd_n2c">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">See SAFETY / Control of Hazardous Energy / Lockout/Tagout Procedures to prepare
+                    the pallet truck for maintenance.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Remove the battery. See SAFETY / Control of Hazardous Energy / Battery Removal
+                    and Installation.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "><xref class="- topic/xref " href="#unique_17_Connect_42_fig_js1_gqd_n2c" type="fig">See Figure
+                        3</xref>. Lift the power unit end (1) with a hydraulic jack (2) and put two
+                    hardwood blocks (3) or two jack stands (4) below the pallet truck skirt. Make
+                    sure that you set the hydraulic jack to the applicable height, which is no more
+                    than 400 mm (16 in).</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Lift the forks (5) with a lifting device (6). When using hardwood blocks (3),
+                    put one below the forks and one below the center of the battery compartment (7).
+                    When using jack stands (4), put two below the forks and two below each side of
+                    the battery compartment.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <fig class="- topic/fig " id="unique_17_Connect_42_fig_js1_gqd_n2c" nd:nd-id="fig_js1_gqd_n2c"><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper "> (25805-01)</ph></title><image align="center" class="- topic/image " dita-ot:image-width="313" dita-ot:image-height="638" href="file:/D:/Frammemaker%20assignment%202/Framemaker%20Assignment/images/lifting_and_blocking_the_pallet_truck.png" id="unique_17_Connect_42_image_u2m_fqd_n2c" nd:nd-id="image_u2m_fqd_n2c" placement="break"/></fig>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task></concept></concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_18" topicrefclass="- map/topicref bookmap/chapter " nd:nd-id="lift_pump_and_lift_pump_motor" oid="lift_pump_and_lift_pump_motor" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Lift Pump and Lift Pump Motor</ph></title>
+    <conbody class="- topic/body  concept/conbody ">
+        <note class="- topic/note " id="unique_18_Connect_42_note_ovt_vqd_n2c" nd:nd-id="note_ovt_vqd_n2c" type="warning">
+            <p class="- topic/p ">High-pressure fluid can go through the skin and cause injury.</p>
+            <p class="- topic/p ">High-pressure fluid that goes into the skin is a medical emergency. There is a
+                delayed start of pain, and severe tissue damage may occur. Seek medical aid from a
+                specialist who has had experience with this type of injury.</p>
+            <ul class="- topic/ul " id="unique_18_Connect_42_ul_ugs_xqd_n2c" nd:nd-id="ul_ugs_xqd_n2c">
+                <li class="- topic/li ">
+                    <ul class="- topic/ul " id="unique_18_Connect_42_ul_cxb_yqd_n2c" nd:nd-id="ul_cxb_yqd_n2c">
+                        <li class="- topic/li ">Avoid high-pressure fluids.</li>
+                        <li class="- topic/li ">Release the pressure before you disconnect the hydraulic lines.</li>
+                        <li class="- topic/li ">Tighten all connections before you apply the pressure.</li>
+                        <li class="- topic/li ">Keep your hands and body away from pin-holes which eject high-pressure
+                            fluids.</li>
+                        <li class="- topic/li ">Use a piece of cardboard or paper to examine for leaks. Do not use your
+                            hand</li>
+                    </ul>
+                </li>
+            </ul>
+        </note>
+    </conbody>
+<concept class="- topic/topic concept/concept " id="unique_19" topicrefclass="- map/topicref " nd:nd-id="lift_pump_and_lift_pump_motor_removal" oid="lift_pump_and_lift_pump_motor_removal" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Lift pump and lift pump motor removal</ph></title>
+<concept class="- topic/topic concept/concept " id="unique_20" topicrefclass="- map/topicref " nd:nd-id="special_tools_and_equipment" oid="special_tools_and_equipment" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Special tools and equipment</ph></title>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Catch pan or other absorbent material</p>
+    </conbody>
+<task class="- topic/topic task/task " id="unique_21" topicrefclass="- map/topicref " nd:nd-id="removing_the_lift_pump_and_the_lift_pump_motor" oid="removing_the_lift_pump_and_the_lift_pump_motor" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Removing the lift pump and the lift pump motor</ph></title>
+    <shortdesc class="- topic/shortdesc "><xref class="- topic/xref " href="#unique_21_Connect_42_image_mp1_dsd_n2c" type="image"><?ditaot usertext?>See
+            Figure 1</xref>.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <steps class="- topic/ol task/steps " id="unique_21_Connect_42_steps_oc5_prd_n2c" nd:nd-id="steps_oc5_prd_n2c">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">If the lift pump (1) and the lift pump motor (M2) (2) are disassembled, prepare
+                    to catch hydraulic oil or other absorbent material with a catch pan.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Disconnect the solenoid valve (SV) wires (3).</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Disconnect the M2 power cables (4).</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Disconnect the connection for the lift pump output (5).</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Support the lift pump (1) and M2 (2).</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Remove the two screws (6) from the power unit to remove the lift pump (1) and
+                    M2 (2).</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <fig class="- topic/fig " id="unique_21_Connect_42_fig_qlm_lyy_n2c" nd:nd-id="fig_qlm_lyy_n2c"><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">fig.1 (35314)<image align="center" class="- topic/image " dita-ot:image-width="286" dita-ot:image-height="420" href="file:/D:/Frammemaker%20assignment%202/Framemaker%20Assignment/images/removing_the_lift_pump_and_the_lift_pump_motor.png" id="unique_21_Connect_42_image_mp1_dsd_n2c" nd:nd-id="image_mp1_dsd_n2c" placement="break"/></ph></title></fig>
+                    <fig class="- topic/fig "/>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task></concept></concept><task class="- topic/topic task/task " id="unique_22" topicrefclass="- map/topicref " nd:nd-id="suction_filter_replacement" oid="suction_filter_replacement" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Suction filter replacement</ph></title>
+    <shortdesc class="- topic/shortdesc "><xref class="- topic/xref " href="#unique_22_Connect_42_fig_mmw_xsd_n2c" type="fig">See Figure
+        2.</xref></shortdesc>
+    <taskbody class="- topic/body task/taskbody "><context class="- topic/section task/context ">
+        <p class="- topic/p ">Replacing the suction filter</p>
+    </context>
+        <steps class="- topic/ol task/steps " id="unique_22_Connect_42_steps_h4v_5sd_n2c" nd:nd-id="steps_h4v_5sd_n2c">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Remove the clamp (1) to remove the tank (2) from the lift pump manifold
+                    (3).</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Remove the suction filter (4) from the suction pipe (5).</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Install the new suction filter (4). Torque the new suction filter (4) to 10 N m
+                    (7 ft lb).</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <fig class="- topic/fig " id="unique_22_Connect_42_fig_mmw_xsd_n2c" nd:nd-id="fig_mmw_xsd_n2c"><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">fig 2 (5315)</ph></title><image align="center" class="- topic/image " dita-ot:image-width="317" dita-ot:image-height="746" href="file:/D:/Frammemaker%20assignment%202/Framemaker%20Assignment/images/suction_filter_replacement.png" id="unique_22_Connect_42_image_ogm_xsd_n2c" nd:nd-id="image_ogm_xsd_n2c" placement="break"/></fig>
+                </info>
+            </step>
+        </steps></taskbody>
+</task><concept class="- topic/topic concept/concept " id="unique_23" topicrefclass="- map/topicref " nd:nd-id="inspecting_the_lift_pump" oid="inspecting_the_lift_pump" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Inspecting the lift pump</ph></title>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">
+            <ol class="- topic/ol " id="unique_23_Connect_42_ol_nw3_3td_n2c" nd:nd-id="ol_nw3_3td_n2c">
+                <li class="- topic/li ">Remove the clamp (1) to remove the tank (2) from the lift pump manifold
+                        (3).<note class="- topic/note " id="unique_23_Connect_42_note_cf2_ltd_n2c" nd:nd-id="note_cf2_ltd_n2c" type="tip">
+                        <p class="- topic/p ">Technician Tips: The lift pump (6) is not a serviceable part. Replace the
+                            lift pump if repair is necessary.</p>
+                    </note></li>
+                <li class="- topic/li ">Remove and inspect the following components. Make sure that the components are
+                    clean, not damaged, and correctly lubricated with hydraulic oil before
+                        replacement.<ul class="- topic/ul " id="unique_23_Connect_42_ul_p5y_mtd_n2c" nd:nd-id="ul_p5y_mtd_n2c">
+                        <li class="- topic/li ">Sealing plug ball (7)</li>
+                        <li class="- topic/li ">Relief valve (8)</li>
+                        <li class="- topic/li ">Check valve (9)</li>
+                        <li class="- topic/li ">Seals (10)</li>
+                        <li class="- topic/li ">Plugs (11)</li>
+                        <li class="- topic/li ">Solenoid coil (12)</li>
+                        <li class="- topic/li ">Solenoid valve (13)</li>
+                    </ul></li>
+                <li class="- topic/li ">Inspect the lift pump (6) for damage and replace the lift pump if
+                    necessary.</li>
+                <li class="- topic/li ">Inspect the lift pump manifold (3) and the port threads for damage and replace
+                    the lift pump manifold if necessary.</li>
+            </ol>
+        </p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_24" topicrefclass="- map/topicref " nd:nd-id="lift_pump_inspection" oid="lift_pump_inspection" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Lift pump inspection</ph></title>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "><xref class="- topic/xref " href="#unique_22_Connect_42_fig_mmw_xsd_n2c" type="fig">See Figure 2.</xref></p>
+        <p class="- topic/p ">Inspecting the lift pump</p>
+    </conbody>
+</concept><task class="- topic/topic task/task " id="unique_25" topicrefclass="- map/topicref " nd:nd-id="lift_pump_replacement" oid="lift_pump_replacement" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Lift pump replacement</ph></title>
+    <taskbody class="- topic/body task/taskbody "><context class="- topic/section task/context ">
+        <p class="- topic/p ">Replacing the lift pump</p>
+    </context>
+        <steps class="- topic/ol task/steps " id="unique_25_Connect_42_steps_myw_xtd_n2c" nd:nd-id="steps_myw_xtd_n2c">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Lubricate the O-rings (15) with hydraulic oil.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Install the O-rings (15).</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Install the lift pump (6) and the tank (1) on the lift pump manifold (3) with
+                    the clamp (1). Torque the clamp (1) to 3–4 N m (27–35 in lb).</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Install the lift pump and M2 on the power unit with the two screws (6). Torque
+                    the two screws to 10 N m (7 ft lb).</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Connect the connection for the lift pump output (5).</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Connect the M2 power cables (4). Torque the M2 power cables to 8 N m (6 ft
+                    lb).</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Connect the SV wires (3).</cmd>
+            </step>
+        </steps></taskbody>
+<task class="- topic/topic task/task " id="unique_26" topicrefclass="- map/topicref " nd:nd-id="preparing_the_pallet_truck_for_operation" oid="preparing_the_pallet_truck_for_operation" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Preparing the pallet truck for operation</ph></title>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <note class="- topic/note " id="unique_26_Connect_42_note_mnq_f5d_n2c" nd:nd-id="note_mnq_f5d_n2c" type="tip">
+                <p class="- topic/p ">Technician Tips: Do not operate the lift pump without hydraulic oil.</p>
+            </note>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Fill the reservoir with clean, filtered (10 micron minimum) hydraulic oil
+                    approximately 20 mm (0.75 in) below the bottom of the vent cap.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Remove the lockout / tagout device.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Connect the battery.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Remove the chocks from the wheels.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Turn on the pallet truck.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Without a load on the forks, push the raise switch (RAS) to operate the lift
+                    pump and to make sure that there is sufficient lubrication.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <ul class="- topic/ul " id="unique_26_Connect_42_ul_fj2_l5d_n2c" nd:nd-id="ul_fj2_l5d_n2c">
+                        <li class="- topic/li ">If the hydraulic oil foams after 20 seconds, refer to the Lift Pump
+                            Troubleshooting table.</li>
+                    </ul>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">When the hydraulic system is at operating temperature, make sure that the
+                    connections do not leak.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Install the power unit covers.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task></task><concept class="- topic/topic concept/concept " id="unique_27" topicrefclass="- map/topicref " nd:nd-id="lift_pump_troubleshooting_0" oid="lift_pump_troubleshooting_0" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Lift Pump Troubleshooting</ph></title>
+<troubleshooting class="- topic/topic troubleshooting/troubleshooting " id="unique_28" topicrefclass="- map/topicref " nd:nd-id="lift_pump_troubleshooting" oid="lift_pump_troubleshooting" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Lift Pump Troubleshooting</ph></title>
+    <troublebody class="- topic/body troubleshooting/troublebody ">
+        <condition class="- topic/section troubleshooting/condition ">
+            <title class="- topic/title ">The lift pump makes an unusual noise.</title>
+        </condition>
+        <troubleSolution class="- topic/bodydiv troubleshooting/troubleSolution ">
+            <cause class="- topic/section troubleshooting/cause " id="unique_28_Connect_42_cause_avq_lbz_n2c" nd:nd-id="cause_avq_lbz_n2c">
+                <p class="- topic/p ">The hydraulic oil supply is low.</p>
+            </cause>
+            <remedy class="- topic/section troubleshooting/remedy " id="unique_28_Connect_42_remedy_zwb_rbz_n2c" nd:nd-id="remedy_zwb_rbz_n2c">
+                <steps class="- topic/ol task/steps " id="unique_28_Connect_42_steps_otx_sbz_n2c" nd:nd-id="steps_otx_sbz_n2c">
+                    <step class="- topic/li task/step ">
+                        <cmd class="- topic/ph task/cmd ">Check the level of the hydraulic oil in the reservoir.</cmd>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution>
+        <troubleSolution class="- topic/bodydiv troubleshooting/troubleSolution ">
+            <cause class="- topic/section troubleshooting/cause " id="unique_28_Connect_42_cause_z1s_xbz_n2c" nd:nd-id="cause_z1s_xbz_n2c">
+                <p class="- topic/p ">The hydraulic oil is too heavy.</p>
+            </cause>
+            <remedy class="- topic/section troubleshooting/remedy " id="unique_28_Connect_42_remedy_x4y_ybz_n2c" nd:nd-id="remedy_x4y_ybz_n2c">
+                <steps class="- topic/ol task/steps " id="unique_28_Connect_42_steps_hfl_zbz_n2c" nd:nd-id="steps_hfl_zbz_n2c">
+                    <step class="- topic/li task/step ">
+                        <cmd class="- topic/ph task/cmd ">Check for the correct hydraulic oil viscosity.</cmd>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution>
+        <troubleSolution class="- topic/bodydiv troubleshooting/troubleSolution ">
+            <cause class="- topic/section troubleshooting/cause " id="unique_28_Connect_42_cause_fc5_5nz_n2c" nd:nd-id="cause_fc5_5nz_n2c">
+                <p class="- topic/p ">There is an air leak in the inlet hose.</p>
+            </cause>
+            <remedy class="- topic/section troubleshooting/remedy " id="unique_28_Connect_42_remedy_ewd_vnz_n2c" nd:nd-id="remedy_ewd_vnz_n2c">
+                <steps class="- topic/ol task/steps " id="unique_28_Connect_42_steps_owl_vnz_n2c" nd:nd-id="steps_owl_vnz_n2c">
+                    <step class="- topic/li task/step ">
+                        <cmd class="- topic/ph task/cmd ">Check the hydraulic plumbing.</cmd>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution>
+        <troubleSolution class="- topic/bodydiv troubleshooting/troubleSolution ">
+            <cause class="- topic/section troubleshooting/cause " id="unique_28_Connect_42_cause_ncx_znz_n2c" nd:nd-id="cause_ncx_znz_n2c">
+                <p class="- topic/p ">The suction hose has a blockage.</p>
+            </cause>
+            <remedy class="- topic/section troubleshooting/remedy " id="unique_28_Connect_42_remedy_djh_14z_n2c" nd:nd-id="remedy_djh_14z_n2c">
+                <steps class="- topic/ol task/steps " id="unique_28_Connect_42_steps_g5n_14z_n2c" nd:nd-id="steps_g5n_14z_n2c">
+                    <step class="- topic/li task/step ">
+                        <cmd class="- topic/ph task/cmd ">Check the suction hose for unwanted material.</cmd>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution></troublebody>
+</troubleshooting><troubleshooting class="- topic/topic troubleshooting/troubleshooting " id="unique_29" topicrefclass="- map/topicref " nd:nd-id="lift_pump_troubleshooting_1" oid="lift_pump_troubleshooting_1" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Lift Pump Troubleshooting_1</ph></title>
+    <troublebody class="- topic/body troubleshooting/troublebody ">
+        <condition class="- topic/section troubleshooting/condition ">
+            <title class="- topic/title ">The hydraulic oil has foam.</title>
+        </condition><troubleSolution class="- topic/bodydiv troubleshooting/troubleSolution "><cause class="- topic/section troubleshooting/cause ">
+                <title class="- topic/title ">There is air in the lift pump.</title>
+    </cause>
+            <remedy class="- topic/section troubleshooting/remedy " id="unique_29_Connect_42_remedy_ljp_fpz_n2c" nd:nd-id="remedy_ljp_fpz_n2c">
+                <steps class="- topic/ol task/steps " id="unique_29_Connect_42_steps_vsy_fpz_n2c" nd:nd-id="steps_vsy_fpz_n2c">
+                    <step class="- topic/li task/step ">
+                        <cmd class="- topic/ph task/cmd ">Check the level of the hydraulic oil in the reservoir.</cmd>
+                    </step>
+                    <step class="- topic/li task/step ">
+                        <cmd class="- topic/ph task/cmd ">Check for the correct hydraulic oil  viscosity.</cmd>
+                    </step>
+                    <step class="- topic/li task/step ">
+                        <cmd class="- topic/ph task/cmd ">Check the hydraulic plumbing.</cmd>
+                    </step>
+                </steps>
+            </remedy></troubleSolution>
+        <troubleSolution class="- topic/bodydiv troubleshooting/troubleSolution ">
+            <cause class="- topic/section troubleshooting/cause " id="unique_29_Connect_42_cause_fdj_mpz_n2c" nd:nd-id="cause_fdj_mpz_n2c">
+                <p class="- topic/p ">There is water in the hydraulic oil.</p>
+            </cause>
+            <remedy class="- topic/section troubleshooting/remedy " id="unique_29_Connect_42_remedy_ghq_npz_n2c" nd:nd-id="remedy_ghq_npz_n2c">
+                <steps class="- topic/ol task/steps " id="unique_29_Connect_42_steps_em2_4pz_n2c" nd:nd-id="steps_em2_4pz_n2c">
+                    <step class="- topic/li task/step ">
+                        <cmd class="- topic/ph task/cmd ">Check the reservoir and replace the hydraulic oil.</cmd>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution></troublebody>
+</troubleshooting><troubleshooting class="- topic/topic troubleshooting/troubleshooting " id="unique_30" topicrefclass="- map/topicref " nd:nd-id="lift_pump_troubleshooting_2" oid="lift_pump_troubleshooting_2" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Lift Pump Troubleshooting_2</ph></title>
+    <troublebody class="- topic/body troubleshooting/troublebody ">
+        <condition class="- topic/section troubleshooting/condition ">
+            <title class="- topic/title ">The hydraulic oil or the lift pump is too hot.</title>
+        </condition><troubleSolution class="- topic/bodydiv troubleshooting/troubleSolution "><cause class="- topic/section troubleshooting/cause ">
+        <p class="- topic/p ">The hydraulic oil is too thin.</p>
+    </cause>
+            <remedy class="- topic/section troubleshooting/remedy " id="unique_30_Connect_42_remedy_azf_nqz_n2c" nd:nd-id="remedy_azf_nqz_n2c">
+                <steps class="- topic/ol task/steps " id="unique_30_Connect_42_steps_ebm_nqz_n2c" nd:nd-id="steps_ebm_nqz_n2c">
+                    <step class="- topic/li task/step ">
+                        <cmd class="- topic/ph task/cmd ">Drain and fill the reservoir with the correct viscosity hydraulic
+                            oil.</cmd>
+                    </step>
+                </steps>
+            </remedy></troubleSolution>
+        <troubleSolution class="- topic/bodydiv troubleshooting/troubleSolution ">
+            <cause class="- topic/section troubleshooting/cause " id="unique_30_Connect_42_cause_o2n_pqz_n2c" nd:nd-id="cause_o2n_pqz_n2c">
+                <p class="- topic/p ">The hydraulic oil is contaminated.</p>
+            </cause>
+            <remedy class="- topic/section troubleshooting/remedy " id="unique_30_Connect_42_remedy_gx5_qqz_n2c" nd:nd-id="remedy_gx5_qqz_n2c">
+                <steps class="- topic/ol task/steps " id="unique_30_Connect_42_steps_yzc_rqz_n2c" nd:nd-id="steps_yzc_rqz_n2c">
+                    <step class="- topic/li task/step ">
+                        <cmd class="- topic/ph task/cmd ">Drain, clean, and fill the reservoir with clean hydraulic oil.</cmd>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution>
+        <troubleSolution class="- topic/bodydiv troubleshooting/troubleSolution ">
+            <cause class="- topic/section troubleshooting/cause " id="unique_30_Connect_42_cause_m1q_tqz_n2c" nd:nd-id="cause_m1q_tqz_n2c">
+                <p class="- topic/p ">There is air in the lift pump.</p>
+            </cause>
+            <remedy class="- topic/section troubleshooting/remedy " id="unique_30_Connect_42_remedy_xw4_vqz_n2c" nd:nd-id="remedy_xw4_vqz_n2c">
+                <steps class="- topic/ol task/steps " id="unique_30_Connect_42_steps_f15_vqz_n2c" nd:nd-id="steps_f15_vqz_n2c">
+                    <step class="- topic/li task/step ">
+                        <cmd class="- topic/ph task/cmd ">Check the hydraulic plumbing.</cmd>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution>
+        <troubleSolution class="- topic/bodydiv troubleshooting/troubleSolution ">
+            <cause class="- topic/section troubleshooting/cause " id="unique_30_Connect_42_cause_unw_wqz_n2c" nd:nd-id="cause_unw_wqz_n2c">
+                <p class="- topic/p ">The oil passes through the relief valve (RV) and into the reservoir.</p>
+            </cause>
+            <remedy class="- topic/section troubleshooting/remedy " id="unique_30_Connect_42_remedy_tbd_yqz_n2c" nd:nd-id="remedy_tbd_yqz_n2c">
+                <steps class="- topic/ol task/steps " id="unique_30_Connect_42_steps_jcn_yqz_n2c" nd:nd-id="steps_jcn_yqz_n2c">
+                    <step class="- topic/li task/step ">
+                        <cmd class="- topic/ph task/cmd ">Check the RV for contamination.</cmd>
+                    </step>
+                    <step class="- topic/li task/step ">
+                        <cmd class="- topic/ph task/cmd ">Check the RV for a broken spring.</cmd>
+                    </step>
+                    <step class="- topic/li task/step ">
+                        <cmd class="- topic/ph task/cmd ">Check the RV setting.</cmd>
+                    </step>
+                    <step class="- topic/li task/step ">
+                        <cmd class="- topic/ph task/cmd ">Check for a load that is too heavy.</cmd>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution></troublebody>
+</troubleshooting><troubleshooting class="- topic/topic troubleshooting/troubleshooting " id="unique_31" topicrefclass="- map/topicref " nd:nd-id="lift_pump_troubleshooting_3" oid="lift_pump_troubleshooting_3" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Lift Pump Troubleshooting_3</ph></title>
+    <troublebody class="- topic/body troubleshooting/troublebody ">
+        <condition class="- topic/section troubleshooting/condition ">
+            <title class="- topic/title ">There is low hydraulic oil flow.</title>
+        </condition><troubleSolution class="- topic/bodydiv troubleshooting/troubleSolution "><cause class="- topic/section troubleshooting/cause ">
+                <p class="- topic/p ">There is air in the lift pump.</p>
+            </cause>
+            <remedy class="- topic/section troubleshooting/remedy " id="unique_31_Connect_42_remedy_a1q_jrz_n2c" nd:nd-id="remedy_a1q_jrz_n2c">
+                <steps class="- topic/ol task/steps " id="unique_31_Connect_42_steps_wsk_krz_n2c" nd:nd-id="steps_wsk_krz_n2c">
+                    <step class="- topic/li task/step ">
+                        <cmd class="- topic/ph task/cmd ">Check the level of the hydraulic oil in the reservoir.</cmd>
+                    </step>
+                    <step class="- topic/li task/step ">
+                        <cmd class="- topic/ph task/cmd ">Check for the correct hydraulic oil viscosity.</cmd>
+                    </step>
+                    <step class="- topic/li task/step ">
+                        <cmd class="- topic/ph task/cmd ">Check the hydraulic plumbing.</cmd>
+                    </step>
+                </steps>
+            </remedy></troubleSolution>
+        <troubleSolution class="- topic/bodydiv troubleshooting/troubleSolution ">
+            <cause class="- topic/section troubleshooting/cause " id="unique_31_Connect_42_cause_hc5_4rz_n2c" nd:nd-id="cause_hc5_4rz_n2c">
+                <p class="- topic/p ">RV leaks or is set too low</p>
+            </cause>
+            <remedy class="- topic/section troubleshooting/remedy " id="unique_31_Connect_42_remedy_bds_prz_n2c" nd:nd-id="remedy_bds_prz_n2c">
+                <steps class="- topic/ol task/steps " id="unique_31_Connect_42_steps_qwm_qrz_n2c" nd:nd-id="steps_qwm_qrz_n2c">
+                    <step class="- topic/li task/step ">
+                        <cmd class="- topic/ph task/cmd ">Check the RV for contamination.</cmd>
+                    </step>
+                    <step class="- topic/li task/step ">
+                        <cmd class="- topic/ph task/cmd ">Check the RV for a broken spring.</cmd>
+                    </step>
+                    <step class="- topic/li task/step ">
+                        <cmd class="- topic/ph task/cmd ">Check the RV setting.</cmd>
+                    </step>
+                    <step class="- topic/li task/step ">
+                        <cmd class="- topic/ph task/cmd ">Check for a load that is too heavy.</cmd>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution></troublebody>
+</troubleshooting><troubleshooting class="- topic/topic troubleshooting/troubleshooting " id="unique_32" topicrefclass="- map/topicref " nd:nd-id="lift_pump_troubleshooting_4" oid="lift_pump_troubleshooting_4" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Lift Pump Troubleshooting_4</ph></title>
+    <troublebody class="- topic/body troubleshooting/troublebody ">
+        <condition class="- topic/section troubleshooting/condition ">
+            <title class="- topic/title ">There is no pressure</title>
+        </condition><troubleSolution class="- topic/bodydiv troubleshooting/troubleSolution "><cause class="- topic/section troubleshooting/cause ">
+        <p class="- topic/p ">The RV is not adjusted correctly.</p>
+    </cause>
+            <remedy class="- topic/section troubleshooting/remedy " id="unique_32_Connect_42_remedy_yzg_msz_n2c" nd:nd-id="remedy_yzg_msz_n2c">
+                <steps class="- topic/ol task/steps " id="unique_32_Connect_42_steps_qpm_msz_n2c" nd:nd-id="steps_qpm_msz_n2c">
+                    <step class="- topic/li task/step ">
+                        <cmd class="- topic/ph task/cmd ">Check the RV for contamination.</cmd>
+                    </step>
+                    <step class="- topic/li task/step ">
+                        <cmd class="- topic/ph task/cmd ">Check the RV for a broken spring.</cmd>
+                    </step>
+                    <step class="- topic/li task/step ">
+                        <cmd class="- topic/ph task/cmd ">Check the RV setting.</cmd>
+                    </step>
+                    <step class="- topic/li task/step ">
+                        <cmd class="- topic/ph task/cmd ">Check for a load that is too heavy.</cmd>
+                    </step>
+                </steps>
+            </remedy></troubleSolution>
+        <troubleSolution class="- topic/bodydiv troubleshooting/troubleSolution ">
+            <cause class="- topic/section troubleshooting/cause " id="unique_32_Connect_42_cause_ss4_5sz_n2c" nd:nd-id="cause_ss4_5sz_n2c">
+                <p class="- topic/p ">The hydraulic oil supply is low.</p>
+            </cause>
+            <remedy class="- topic/section troubleshooting/remedy " id="unique_32_Connect_42_remedy_vrf_xsz_n2c" nd:nd-id="remedy_vrf_xsz_n2c">
+                <steps class="- topic/ol task/steps " id="unique_32_Connect_42_steps_ptn_xsz_n2c" nd:nd-id="steps_ptn_xsz_n2c">
+                    <step class="- topic/li task/step ">
+                        <cmd class="- topic/ph task/cmd ">Check the level of the hydraulic oil in the reservoir.</cmd>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution></troublebody>
+</troubleshooting></concept></concept></bookmap>

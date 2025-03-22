@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="lockout_tagout_procedures">
+    <title>Lockout / Tagout Procedures</title>
+    <conbody>
+        <p>Lockout / tagout procedures for the pallet truck<ul id="ul_mvz_rfd_n2c">
+                <li>Technician Tips: A lockout / tagout kit (300037) is available. See the One
+                    Source Catalog.</li>
+                <li>Technician Tips: These procedures let the other personnel know that the pallet
+                    truck is not available for operation.<ol id="ol_vbj_wfd_n2c">
+                        <li>Turn off the pallet truck.</li>
+                        <li>Remove the key.</li>
+                        <li>See Figure 2. Apply a tag to the grip with a cable tie. The tag provides
+                            a warning that the pallet truck is not available for operation.</li>
+                    </ol><fig id="fig_tl4_zfd_n2c">
+                        <image href="images/lockout_tagout_procedures.png" placement="break"
+                            id="image_pds_yfd_n2c" align="center"/>
+                    </fig></li>
+            </ul></p>
+    </conbody>
+</concept>

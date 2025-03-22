@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="lift_pump_troubleshooting">
+    <title>Lift Pump Troubleshooting</title>
+    <troublebody>
+        <condition>
+            <title>The lift pump makes an unusual noise.</title>
+        </condition>
+        <troubleSolution>
+            <cause id="cause_avq_lbz_n2c">
+                <p>The hydraulic oil supply is low.</p>
+            </cause>
+            <remedy id="remedy_zwb_rbz_n2c">
+                <steps id="steps_otx_sbz_n2c">
+                    <step>
+                        <cmd>Check the level of the hydraulic oil in the reservoir.</cmd>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution>
+        <troubleSolution>
+            <cause id="cause_z1s_xbz_n2c">
+                <p>The hydraulic oil is too heavy.</p>
+            </cause>
+            <remedy id="remedy_x4y_ybz_n2c">
+                <steps id="steps_hfl_zbz_n2c">
+                    <step>
+                        <cmd>Check for the correct hydraulic oil viscosity.</cmd>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution>
+        <troubleSolution>
+            <cause id="cause_fc5_5nz_n2c">
+                <p>There is an air leak in the inlet hose.</p>
+            </cause>
+            <remedy id="remedy_ewd_vnz_n2c">
+                <steps id="steps_owl_vnz_n2c">
+                    <step>
+                        <cmd>Check the hydraulic plumbing.</cmd>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution>
+        <troubleSolution>
+            <cause id="cause_ncx_znz_n2c">
+                <p>The suction hose has a blockage.</p>
+            </cause>
+            <remedy id="remedy_djh_14z_n2c">
+                <steps id="steps_g5n_14z_n2c">
+                    <step>
+                        <cmd>Check the suction hose for unwanted material.</cmd>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution></troublebody>
+</troubleshooting>

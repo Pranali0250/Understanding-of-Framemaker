@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="safety_procedures">
+    <title>Safety Procedures</title>
+    <conbody>
+        <p>Wear protective items when doing maintenance on the batteries. Some examples of these
+            protective items are:<ul id="ul_xfw_wsc_n2c">
+                <li>A rubber apron</li>
+                <li>Gloves</li>
+                <li>Boots</li>
+                <li>A full-face shield</li>
+            </ul></p>
+        <note id="note_u3c_y5c_n2c" type="caution">
+            <p><b>Risk of burns by battery acid </b><ul id="ul_xbs_z5c_n2c">
+                    <li>The battery contains battery acid which could cause burns if you touch
+                        it.</li>
+                    <li>Do not let the battery acid touch your eyes, skin, or clothing.</li>
+                    <li>If battery acid touches your skin, immediately clean the area with soap and
+                        water and get medical aid.</li>
+                    <li>If battery acid touches your eyes, immediately flush your eyes with clean
+                        water and get medical aid.</li>
+                    <li>If you spill battery acid, use a Battery Spill Kit (300035) to make the
+                        battery acid neutral and clean it up. Follow the manufacturer directions to
+                        use the kit.</li>
+                </ul></p>
+        </note>
+    </conbody>
+</concept>

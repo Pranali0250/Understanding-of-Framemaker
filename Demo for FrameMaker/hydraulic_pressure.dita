@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="hydraulic_pressure">
+    <title>Hydraulic Pressure</title>
+    <taskbody>
+        <context>
+            <p>Releasing the pressure from the hydraulic system</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Turn on the pallet truck.</cmd>
+            </step>
+            <step>
+                <cmd>Push the lower switch.</cmd>
+                <info>
+                    <ul id="ul_nkn_hpd_n2c">
+                        <li>The forks lower.</li>
+                    </ul>
+                </info>
+            </step>
+            <step>
+                <cmd>With the forks fully lowered, keep the lower switch pushed for a minimum of 10
+                    s.</cmd>
+                <info>
+                    <ul id="ul_whx_3pd_n2c">
+                        <li>The pressure in the hydraulic system decreases to 0 psi (0 bar).</li>
+                    </ul>
+                </info>
+            </step>
+            <step>
+                <cmd>Turn off the pallet truck.</cmd>
+            </step>
+            <step>
+                <cmd>Complete the lockout / tagout procedures for the pallet truck. See SAFETY /
+                    Control of Hazardous Energy / Lockout/Tagout Procedures.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

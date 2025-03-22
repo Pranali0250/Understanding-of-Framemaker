@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="lifting_and_blocking_the_pallet_truck">
+    <title>Lifting and blocking the pallet truck</title>
+    <taskbody>
+        <steps id="steps_zgs_1qd_n2c">
+            <step>
+                <cmd>See SAFETY / Control of Hazardous Energy / Lockout/Tagout Procedures to prepare
+                    the pallet truck for maintenance.</cmd>
+            </step>
+            <step>
+                <cmd>Remove the battery. See SAFETY / Control of Hazardous Energy / Battery Removal
+                    and Installation.</cmd>
+            </step>
+            <step>
+                <cmd><xref href="#lifting_and_blocking_the_pallet_truck/fig_js1_gqd_n2c">See Figure
+                        3</xref>. Lift the power unit end (1) with a hydraulic jack (2) and put two
+                    hardwood blocks (3) or two jack stands (4) below the pallet truck skirt. Make
+                    sure that you set the hydraulic jack to the applicable height, which is no more
+                    than 400 mm (16 in).</cmd>
+            </step>
+            <step>
+                <cmd>Lift the forks (5) with a lifting device (6). When using hardwood blocks (3),
+                    put one below the forks and one below the center of the battery compartment (7).
+                    When using jack stands (4), put two below the forks and two below each side of
+                    the battery compartment.</cmd>
+                <info>
+                    <fig id="fig_js1_gqd_n2c">
+                        <title> (25805-01)</title>
+                        <image href="images/lifting_and_blocking_the_pallet_truck.png"
+                            placement="break" id="image_u2m_fqd_n2c" align="center"/>
+                    </fig>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

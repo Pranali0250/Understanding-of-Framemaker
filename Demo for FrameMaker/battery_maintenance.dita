@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="battery_maintenance">
+    <title>Battery Maintenance</title>
+    <conbody>
+        <note id="note_nms_f5c_n2c" type="warning">
+            <p><b>Risk of burns by short circuits and high current. </b><ul id="ul_nhr_h5c_n2c">
+                    <li>Unapproved handling of tools on batteries can cause an injury or damage to
+                        the pallet truck.</li>
+                    <li>Do maintenance and repair on batteries only if you are approved for this
+                        work.</li>
+                    <li>Do not allow metal objects to come in contact with the top of battery
+                        cells.</li>
+                </ul><note id="note_cxq_j5c_n2c">
+                    <ul id="ul_hrc_l5c_n2c">
+                        <li>Make sure that the battery charger has the same voltage and amperage as
+                            the pallet truck battery. The voltage is on the pallet truck data
+                            plate.</li>
+                        <li>Before connecting or disconnecting a battery to a battery charger, make
+                            sure that the battery charger is off. If the battery is connected or
+                            disconnected and the battery charger is on, an injury could occur to
+                            you, the battery, and the battery charger.</li>
+                        <li>Make sure that the battery has the same weight, dimension, amperage, and
+                            voltage specifications as the pallet truck (see to the pallet truck data
+                            plate). Do not operate a pallet truck without the correct battery.</li>
+                    </ul>
+                </note></p>
+        </note>
+    </conbody>
+</concept>

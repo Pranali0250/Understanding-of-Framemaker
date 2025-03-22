@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="lift_pump_troubleshooting_3">
+    <title>Lift Pump Troubleshooting_3</title>
+    <troublebody>
+        <condition>
+            <title>There is low hydraulic oil flow.</title>
+        </condition><troubleSolution><cause>
+                <p>There is air in the lift pump.</p>
+            </cause>
+            <remedy id="remedy_a1q_jrz_n2c">
+                <steps id="steps_wsk_krz_n2c">
+                    <step>
+                        <cmd>Check the level of the hydraulic oil in the reservoir.</cmd>
+                    </step>
+                    <step>
+                        <cmd>Check for the correct hydraulic oil viscosity.</cmd>
+                    </step>
+                    <step>
+                        <cmd>Check the hydraulic plumbing.</cmd>
+                    </step>
+                </steps>
+            </remedy></troubleSolution>
+        <troubleSolution>
+            <cause id="cause_hc5_4rz_n2c">
+                <p>RV leaks or is set too low</p>
+            </cause>
+            <remedy id="remedy_bds_prz_n2c">
+                <steps id="steps_qwm_qrz_n2c">
+                    <step>
+                        <cmd>Check the RV for contamination.</cmd>
+                    </step>
+                    <step>
+                        <cmd>Check the RV for a broken spring.</cmd>
+                    </step>
+                    <step>
+                        <cmd>Check the RV setting.</cmd>
+                    </step>
+                    <step>
+                        <cmd>Check for a load that is too heavy.</cmd>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution></troublebody>
+</troubleshooting>

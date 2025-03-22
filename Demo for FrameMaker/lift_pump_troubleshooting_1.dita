@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="lift_pump_troubleshooting_1">
+    <title>Lift Pump Troubleshooting_1</title>
+    <troublebody>
+        <condition>
+            <title>The hydraulic oil has foam.</title>
+        </condition><troubleSolution><cause>
+                <title>There is air in the lift pump.</title>
+    </cause>
+            <remedy id="remedy_ljp_fpz_n2c">
+                <steps id="steps_vsy_fpz_n2c">
+                    <step>
+                        <cmd>Check the level of the hydraulic oil in the reservoir.</cmd>
+                    </step>
+                    <step>
+                        <cmd>Check for the correct hydraulic oil  viscosity.</cmd>
+                    </step>
+                    <step>
+                        <cmd>Check the hydraulic plumbing.</cmd>
+                    </step>
+                </steps>
+            </remedy></troubleSolution>
+        <troubleSolution>
+            <cause id="cause_fdj_mpz_n2c">
+                <p>There is water in the hydraulic oil.</p>
+            </cause>
+            <remedy id="remedy_ghq_npz_n2c">
+                <steps id="steps_em2_4pz_n2c">
+                    <step>
+                        <cmd>Check the reservoir and replace the hydraulic oil.</cmd>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution></troublebody>
+</troubleshooting>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="preparing_the_pallet_truck_for_maintenance">
+    <title>Preparing the pallet truck for maintenance</title>
+    <taskbody>
+        <steps id="steps_nsf_jrd_n2c">
+            <step>
+                <cmd>Move the pallet truck to a maintenance area with a level floor.</cmd>
+            </step>
+            <step>
+                <cmd>Fully lower the forks.</cmd>
+            </step>
+            <step>
+                <cmd>Turn off the pallet truck.</cmd>
+            </step>
+            <step>
+                <cmd>Put the chocks against the wheels to prevent the movement of the pallet truck.
+                    Refer to the SAFETY / Control of Hazardous Energy / Lifting and Blocking
+                    section</cmd>
+            </step>
+            <step>
+                <cmd>Disconnect the battery.</cmd>
+            </step>
+            <step>
+                <cmd>Lockout / tagout the pallet truck. Refer to the SAFETY / Control of Hazardous
+                    Energy / Lockout / Tagout Procedures section.</cmd>
+            </step>
+            <step>
+                <cmd>Remove the power unit covers.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

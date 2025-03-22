@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="battery_removal_and_installation">
+    <title>Battery Removal and Installation</title>
+    <conbody>
+        <note id="note_ktw_lvc_n2c" type="warning">
+            <p><b>Conductive objects that touch the connectors of the battery cells cause a short
+                    circuit.</b></p>
+            <ul id="ul_ocd_nvc_n2c">
+                <li>Use an insulator (such as plywood) as a cover on the top of the battery before
+                    and during removal and installation.</li>
+            </ul>
+        </note>
+        <note id="note_xcs_nvc_n2c" type="warning">
+            <p><b>Risk of a crushing hazard.</b></p>
+            <p>If the battery is pulled from the pallet truck without a battery roller stand in
+                position, the battery can tip over and cause a severe injury.</p>
+            <ul id="ul_pjf_rvc_n2c">
+                <li>Put the battery roller stand in position before moving the battery.</li>
+            </ul>
+        </note>
+        <note id="note_mdw_rvc_n2c" type="caution">
+            <p><b>Risk of tip over.</b></p>
+            <p>The incorrect battery weight and dimensions can make the pallet truck unstable.</p>
+            <ul id="ul_p4x_5vc_n2c">
+                <li>Install the same battery or a battery of equal weight and dimension in the
+                    pallet truck.</li>
+                <li>See the data plate for the minimum battery weight and dimension</li>
+            </ul>
+            <ul id="ul_m5y_vvc_n2c">
+                <li>For industrial battery removal and installation procedures, see ELECTRICAL
+                    SYSTEM / Battery / Industrial Battery Removal and Installation.</li>
+                <li>For battery pack removal and installation procedures, see ELECTRICAL SYSTEM /
+                    Battery / Battery Pack Removal and Installation.</li>
+            </ul>
+        </note>
+        <image href="images/battery_removal_and_installation.png" placement="break"
+            id="image_zkh_dwc_n2c" align="center"/>
+        <table frame="all" rowsep="0" colsep="0" id="table_xsw_nwc_n2c">
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <tbody>
+                    <row>
+                        <entry>1</entry>
+                        <entry>Wet or dry cell battery</entry>
+                    </row>
+                    <row>
+                        <entry>2</entry>
+                        <entry>Maintenance free battery</entry>
+                    </row>
+                    <row>
+                        <entry>3</entry>
+                        <entry>Thin plate pure lead (TPPL) battery</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>

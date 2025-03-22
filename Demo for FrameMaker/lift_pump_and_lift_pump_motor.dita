@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="lift_pump_and_lift_pump_motor">
+    <title>Lift Pump and Lift Pump Motor</title>
+    <conbody>
+        <note id="note_ovt_vqd_n2c" type="warning">
+            <p>High-pressure fluid can go through the skin and cause injury.</p>
+            <p>High-pressure fluid that goes into the skin is a medical emergency. There is a
+                delayed start of pain, and severe tissue damage may occur. Seek medical aid from a
+                specialist who has had experience with this type of injury.</p>
+            <ul id="ul_ugs_xqd_n2c">
+                <li>
+                    <ul id="ul_cxb_yqd_n2c">
+                        <li>Avoid high-pressure fluids.</li>
+                        <li>Release the pressure before you disconnect the hydraulic lines.</li>
+                        <li>Tighten all connections before you apply the pressure.</li>
+                        <li>Keep your hands and body away from pin-holes which eject high-pressure
+                            fluids.</li>
+                        <li>Use a piece of cardboard or paper to examine for leaks. Do not use your
+                            hand</li>
+                    </ul>
+                </li>
+            </ul>
+        </note>
+    </conbody>
+</concept>

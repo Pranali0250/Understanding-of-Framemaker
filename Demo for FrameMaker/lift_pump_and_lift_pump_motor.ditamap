@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Lift Pump and Lift Pump Motor</title>
+    <topicref href="lift_pump_and_lift_pump_motor.dita">
+        <topicref href="lift_pump_and_lift_pump_motor_removal.dita">
+            <topicref href="special_tools_and_equipment.dita">
+                <topicref href="removing_the_lift_pump_and_the_lift_pump_motor.dita"/>
+            </topicref>
+        </topicref>
+        <topicref href="suction_filter_replacement.dita"/>
+        <topicref href="inspecting_the_lift_pump.dita"/>
+        <topicref href="lift_pump_inspection.dita"/>
+        <topicref href="lift_pump_replacement.dita">
+            <topicref href="preparing_the_pallet_truck_for_operation.dita"/>
+        </topicref>
+        <topicref href="lift_pump_troubleshooting_0.dita">
+            <topicref href="lift_pump_troubleshooting.dita"/>
+            <topicref href="lift_pump_troubleshooting_1.dita"/>
+            <topicref href="lift_pump_troubleshooting_2.dita"/>
+            <topicref href="lift_pump_troubleshooting_3.dita"/>
+            <topicref href="lift_pump_troubleshooting_4.dita"/>
+        </topicref>
+    </topicref>
+</map>
