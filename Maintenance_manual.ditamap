@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap>
+    <booktitle>
+        <mainbooktitle>Maintenance_manual</mainbooktitle>
+    </booktitle>
+    <frontmatter>
+        <booklists>
+            <toc/>
+        </booklists>
+    </frontmatter>
+    <chapter format="ditamap" href="Framemaker%20Assignment/control_of_hazardous_energy.ditamap"/>
+    <chapter format="ditamap" href="Framemaker%20Assignment/lift_pump_and_lift_pump_motor.ditamap"/>
+</bookmap>
